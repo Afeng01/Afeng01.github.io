@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [新生 —— 七年就是一辈子](README.md)
